@@ -2,4 +2,8 @@
     "coin": "100",
     "live": "9",
     "power": "9",
+    "colorHome": "",
+    "colorSupport": "",
+    "imageBackground": "",
+    "imageLogo": "",
 }
